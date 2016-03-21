@@ -1,0 +1,43 @@
+{
+    "auto_upgrade_last_run": null,
+    "bootstrapped": true,
+    "in_process_packages":
+    [
+    ],
+    "installed_packages":
+    [
+        "Alignment",
+        "BracketHighlighter",
+        "Dayle Rees Color Schemes",
+        "DocBlockr",
+        "Emmet",
+        "Git",
+        "GitGutter",
+        "HTML5",
+        "JavaScript Snippets",
+        "JSHint",
+        "JSON Reindent",
+        "JSONLint",
+        "JsonTree",
+        "Nettuts+ Fetch",
+        "Package Control",
+        "PackageDev",
+        "Perfect Code",
+        "phJade",
+        "PHP Companion",
+        "PHP Getters and Setters",
+        "PHP-Twig",
+        "PHPIntel",
+        "PHPUnit",
+        "SideBarEnhancements",
+        "SublimeCodeIntel",
+        "SublimeLinter-json",
+        "SublimeLinter-php",
+        "SublimeLinter-phpcs",
+        "Symfony2 Override",
+        "Symfony2 Snippets",
+        "Theme - Hero",
+        "Twig",
+        "Vue Syntax Highlight"
+    ]
+}
